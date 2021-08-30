@@ -186,7 +186,7 @@ def highest_card_if_pair_is_in_hand(players_cards)
 end
 
 
-# game
+# game starts here
 player1_wins = 0
 
 game = all_hands.map do |game|
